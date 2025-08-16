@@ -1,0 +1,22 @@
+{
+  "name": "Dival Sehgal",
+  "title": "Full Stack Developer",
+  "about": "I specialize in building modern, scalable web applications with React, Next.js, and Golang.",
+  "projects": [
+    {
+      "name": "Event Tracker",
+      "description": "Analytics platform to track user events and impressions.",
+      "url": "https://github.com/Divalsehgal/event-tracker"
+    },
+    {
+      "name": "Plant Price Crawler",
+      "description": "Web crawler & aggregator for plant prices across websites.",
+      "url": "https://github.com/Divalsehgal/plant-crawler"
+    }
+  ],
+  "contact": {
+    "email": "dival@example.com",
+    "linkedin": "https://linkedin.com/in/divalsehgal",
+    "github": "https://github.com/Divalsehgal"
+  }
+}
