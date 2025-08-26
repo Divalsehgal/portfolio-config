@@ -8,7 +8,6 @@
     { "label": "Experience", "url": "#experience", "icon": "briefcase" },
     { "label": "Skills", "url": "#skills", "icon": "code" },
     { "label": "Projects", "url": "#projects", "icon": "folder" },
-    { "label": "Socials", "url": "#socials", "icon": "users" },
     { "label": "Blogs", "url": "blogs", "icon": "book-open" }
   ],
 
