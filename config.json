@@ -9,7 +9,7 @@
     { "label": "Skills", "url": "#skills", "icon": "code" },
     { "label": "Projects", "url": "#projects", "icon": "folder" },
     { "label": "Socials", "url": "#socials", "icon": "users" },
-    { "label": "Blogs", "url": "#blogs", "icon": "book-open" }
+    { "label": "Blogs", "url": "blogs", "icon": "book-open" }
   ],
 
   "pages": {
@@ -82,17 +82,6 @@
         "name": "Plant Price Crawler",
         "description": "Web crawler & aggregator for plant prices across websites.",
         "url": "https://github.com/Divalsehgal/plant-crawler"
-      }
-    ],
-
-    "blogs": [
-      {
-        "title": "Scaling Next.js Applications",
-        "url": "https://your-blog-link.com/scaling-nextjs"
-      },
-      {
-        "title": "Using Golang for Backend APIs",
-        "url": "https://your-blog-link.com/golang-apis"
       }
     ]
   }
