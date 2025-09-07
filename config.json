@@ -1,8 +1,5 @@
 {
   "name": "Dival Sehgal",
-  "title": "Full Stack Developer",
-  "about": "I specialize in building modern, scalable web applications with React, Next.js, and Golang.",
-
   "navbar": [
     { "label": "Home", "url": "#home", "icon": "home" },
     { "label": "Experience", "url": "#experience", "icon": "briefcase" },
@@ -21,12 +18,8 @@
       }
     },
     "about-me": {
-      "description": "I'm a passionate software developer with a knack for creating dynamic
-        and user-friendly web applications. With a strong foundation in both
-        front-end and back-end technologies, I thrive on turning complex
-        problems into elegant solutions. When I'm not coding, you can find me"
+      "description": "I'm a passionate software developer with a knack for creating dynamic  and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I thrive on turning complex problems into elegant solutions. When I'm not coding, you can find me"
     },
-
     "socials": [
       {
         "name": "Email",
