@@ -20,7 +20,7 @@
     },
     "socials": [
       {
-        "name": "IconMail",
+        "name": "IconGmail",
         "icon": "mail",
         "url": "mailto:dival@example.com"
       },
