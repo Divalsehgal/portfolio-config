@@ -113,17 +113,26 @@
       "SCSS"
     ],
 
-    "projects": [
-      {
-        "name": "Event Tracker",
-        "description": "Analytics platform to track user events and impressions.",
-        "url": "https://github.com/Divalsehgal/event-tracker"
-      },
-      {
-        "name": "Plant Price Crawler",
-        "description": "Web crawler & aggregator for plant prices across websites.",
-        "url": "https://github.com/Divalsehgal/plant-crawler"
-      }
-    ]
+"projects": [
+  {
+    "title": "Event Tracker",
+    "description": "Analytics platform to track user events and impressions.",
+    "imageUrl": "/images/projects/event-tracker.png",
+    "githubUrl": "https://github.com/Divalsehgal/event-tracker",
+    "url": "https://event-tracker-demo.vercel.app",
+    "technologies": ["Node.js", "Express", "PostgreSQL", "Docker"],
+    "reverse": false
+  },
+  {
+    "title": "Plant Price Crawler",
+    "description": "Web crawler & aggregator for plant prices across websites.",
+    "imageUrl": "/images/projects/plant-crawler.png",
+    "githubUrl": "https://github.com/Divalsehgal/plant-crawler",
+    "url": "https://plant-crawler-demo.vercel.app",
+    "technologies": ["Go", "Playwright", "PostgreSQL"],
+    "reverse": true
+  }
+]
+
   }
 }
