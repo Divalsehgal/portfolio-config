@@ -117,7 +117,7 @@
   {
     "title": "Event Tracker",
     "description": "Analytics platform to track user events and impressions.",
-    "imageUrl": "/images/projects/event-tracker.png",
+    "imageUrl": "https://fastly.picsum.photos/id/11/2500/1667.jpg?hmac=xxjFJtAPgshYkysU_aqx2sZir-kIOjNR9vx0te7GycQ",
     "githubUrl": "https://github.com/Divalsehgal/event-tracker",
     "url": "https://event-tracker-demo.vercel.app",
     "technologies": ["Node.js", "Express", "PostgreSQL", "Docker"],
@@ -126,7 +126,7 @@
   {
     "title": "Plant Price Crawler",
     "description": "Web crawler & aggregator for plant prices across websites.",
-    "imageUrl": "/images/projects/plant-crawler.png",
+    "imageUrl": "https://fastly.picsum.photos/id/10/2500/1667.jpg?hmac=J04WWC_ebchx3WwzbM-Z4_KC_LeLBWr5LZMaAkWkF68",
     "githubUrl": "https://github.com/Divalsehgal/plant-crawler",
     "url": "https://plant-crawler-demo.vercel.app",
     "technologies": ["Go", "Playwright", "PostgreSQL"],
