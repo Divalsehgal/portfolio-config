@@ -9,14 +9,13 @@
   ],
 
   "pages": {
-    "home": {
-      "name": "Dival Sehgal",
-      "headline": "Hi, I'm",
-      "subheadline": "Full Stack Developer | React | Next.js | Golang",
-      "about": "Senior Frontend Developer specializing in React.js, Next.js, and modern JavaScript
-               Experienced in building scalable, user-friendly, and high-performance web applications.
-               Passionate about clean code, design systems, and delivering seamless user experiences."
-    },
+"home": {
+  "name": "Dival Sehgal",
+  "headline": "Hi, I'm",
+  "subheadline": "Full Stack Developer | React | Next.js | Golang",
+  "about": "Senior Frontend Developer specializing in React.js, Next.js, and modern JavaScript.\nExperienced in building scalable, user-friendly, and high-performance web applications.\nPassionate about clean code, design systems, and delivering seamless user experiences."
+}
+
     "about": {
       "description": "I'm a passionate software developer with a knack for creating dynamic  and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I thrive on turning complex problems into elegant solutions. When I'm not coding, you can find me"
     },
