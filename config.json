@@ -20,17 +20,17 @@
     },
     "socials": [
       {
-        "name": "Email",
+        "name": "IconMail",
         "icon": "mail",
         "url": "mailto:dival@example.com"
       },
       {
-        "name": "LinkedIn",
+        "name": "IconLinkedin",
         "icon": "linkedin",
         "url": "https://linkedin.com/in/divalsehgal"
       },
       {
-        "name": "GitHub",
+        "name": "IconGithub",
         "icon": "github",
         "url": "https://github.com/Divalsehgal"
       }
