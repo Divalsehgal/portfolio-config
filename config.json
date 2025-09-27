@@ -3,7 +3,7 @@
   "navbar": [
     { "label": "Home", "url": "#home", "icon": "home" },
     { "label": "Experience", "url": "#experience", "icon": "briefcase" },
-    { "label": "Skills", "url": "#skills", "icon": "code" },
+    { "label": "About", "url": "#about", "icon": "code" },
     { "label": "Projects", "url": "#projects", "icon": "folder" },
     { "label": "Blogs", "url": "blogs", "icon": "book-open" }
   ],
