@@ -10,12 +10,9 @@
 
   "pages": {
     "home": {
-      "headline": "Hi, I'm Dival 👋",
+      "name": "Dival Sehgal",
+      "headline": "Hi, I'm",
       "subheadline": "Full Stack Developer | React | Next.js | Golang",
-      "cta": {
-        "label": "View My Work",
-        "url": "#projects"
-      }
     },
     "about": {
       "description": "I'm a passionate software developer with a knack for creating dynamic  and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I thrive on turning complex problems into elegant solutions. When I'm not coding, you can find me"
