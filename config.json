@@ -75,15 +75,30 @@
       }
    ],
    "projects":[
-      {
-         "name":"Next.js Portfolio",
-         "description":"My personal portfolio + blog built with a custom SCSS design system, token generator, and MUI integration.",
-         "techStack":[
-            "Next.js",
-            "TypeScript",
-            "SCSS",
-            "MUI"
-         ]
-      }
+{
+  "name": "Next.js Portfolio",
+  "description": "My personal portfolio + blog built with a custom SCSS design system, token generator, and MUI integration.",
+  "techStack": [
+    "Next.js",
+    "TypeScript",
+    "SCSS",
+    "MUI"
+  ],
+  "repo": "https://github.com/Divalsehgal/nextjs-portfolio",
+  "link": "https://divalsehgal.vercel.app"
+},{
+  "name": "Next.js Portfoliofds",
+  "description": "My personal portfolio + blog built with a custom SCSS design system, token generator, and MUI integration.",
+  "techStack": [
+    "Next.js",
+    "TypeScript",
+    "SCSS",
+    "MUI"
+  ],
+  "repo": "https://github.com/Divalsehgal/nextjs-portfolio",
+  "link": "https://divalsehgal.vercel.app"
+}
+
+
    ]
 }
