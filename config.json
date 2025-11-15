@@ -1,138 +1,47 @@
 {
-  "name": "Dival Sehgal",
-  "navbar": [
-    { "label": "Home", "url": "#home", "icon": "home" },
-    { "label": "Experience", "url": "#experience", "icon": "briefcase" },
-    { "label": "About", "url": "#about", "icon": "code" },
-    { "label": "Projects", "url": "#projects", "icon": "folder" },
-    { "label": "Blogs", "url": "blogs", "icon": "book-open" }
+  "hero": {
+    "title": "Hi, I’m Dival Sehgal",
+    "subtitle": "Frontend Engineer — I build fast, scalable interfaces with Next.js, React, TypeScript and custom design systems.",
+    "primaryCtaLabel": "View Projects",
+    "primaryCtaHref": "#projects",
+    "secondaryCtaLabel": "Contact Me",
+    "secondaryCtaHref": "#contact"
+  },
+
+  "about": {
+    "title": "About Me",
+    "paragraphs": [
+      "I’m a frontend engineer who loves building clean, performant UIs with React, Next.js, and TypeScript.",
+      "I enjoy creating scalable design systems, working on large-scale architectures, and building tools that improve developer workflows."
+    ],
+    "facts": [
+      { "label": "Location", "value": "Bangalore, India" },
+      { "label": "Role", "value": "Frontend Engineer" },
+      { "label": "Focus", "value": "Next.js · React · Design Systems" }
+    ]
+  },
+
+  "experience": [
+    {
+      "company": "Ingenio",
+      "role": "Senior Frontend Engineer",
+      "period": "2022 — 2024",
+      "location": "Bangalore, India",
+      "description": "Built and optimized large-scale Next.js apps with heavy polling, custom dashboards, and scalable design systems.",
+      "techStack": ["Next.js", "React", "TypeScript", "MUI"]
+    },
+    {
+      "company": "Previous Co",
+      "role": "Frontend Engineer",
+      "period": "2019 — 2022",
+      "location": "Remote",
+      "description": "Developed reusable UI components, improved performance across multiple products, and collaborated with designers/engineers.",
+      "techStack": ["React", "Node.js", "JavaScript", "PostgreSQL"]
+    }
   ],
 
-  "pages": {
-    "home": {
-      "name": "Dival Sehgal",
-      "headline": "Hi, I'm",
-      "subheadline": "Full Stack Developer",
-      "about": "Senior Frontend Developer specializing in React.js, Next.js, and modern JavaScript.\nExperienced in building scalable, user-friendly, and high-performance web applications.\nPassionate about clean code, design systems, and delivering seamless user experiences."
-    },
-    "about": {
-      "description": "I'm a passionate software developer with a knack for creating dynamic  and user-friendly web applications. With a strong foundation in both front-end and back-end technologies, I thrive on turning complex problems into elegant solutions. When I'm not coding, you can find me"
-    },
-    "socials": [
-      {
-        "name": "IconGmail",
-        "icon": "mail",
-        "url": "mailto:dival@example.com"
-      },
-      {
-        "name": "IconLinkedin",
-        "icon": "linkedin",
-        "url": "https://linkedin.com/in/divalsehgal"
-      },
-      {
-        "name": "IconGithub",
-        "icon": "github",
-        "url": "https://github.com/Divalsehgal"
-      }
-    ],
-
-    "experience": [
-      {
-        "company": "Ingenio",
-        "role": "Full Stack Developer",
-        "duration": "2023 - 2024",
-        "details": [
-          "Implemented extensive polling features in Next.js",
-          "Built scalable web applications with React and Node.js"
-        ]
-      },
-      {
-        "company": "Freelance",
-        "role": "Software Developer",
-        "duration": "2021 - 2023",
-        "details": [
-          "Developed multiple full-stack projects",
-          "Specialized in Golang backend services"
-        ]
-      },
-      {
-        "company": "Freelance",
-        "role": "Software Developer",
-        "duration": "2021 - 2023",
-        "details": [
-          "Developed multiple full-stack projects",
-          "Specialized in Golang backend services"
-        ]
-      },
-      {
-        "company": "Freelance",
-        "role": "Software Developer",
-        "duration": "2021 - 2023",
-        "details": [
-          "Developed multiple full-stack projects",
-          "Specialized in Golang backend services"
-        ]
-      },
-      {
-        "company": "Freelance",
-        "role": "Software Developer",
-        "duration": "2021 - 2023",
-        "details": [
-          "Developed multiple full-stack projects",
-          "Specialized in Golang backend services"
-        ]
-      },
-      {
-        "company": "Freelance",
-        "role": "Software Developer",
-        "duration": "2021 - 2023",
-        "details": [
-          "Developed multiple full-stack projects",
-          "Specialized in Golang backend services"
-        ]
-      },
-      {
-        "company": "Freelance",
-        "role": "Software Developer",
-        "duration": "2021 - 2023",
-        "details": [
-          "Developed multiple full-stack projects",
-          "Specialized in Golang backend services"
-        ]
-      }
-    ],
-
-    "skills": [
-      "React.js",
-      "Next.js",
-      "Node.js",
-      "Golang",
-      "PostgreSQL",
-      "Docker",
-      "TypeScript",
-      "SCSS"
-    ],
-
-"projects": [
-  {
-    "title": "Event Tracker",
-    "description": "Analytics platform to track user events and impressions.",
-    "imageUrl": "https://fastly.picsum.photos/id/11/2500/1667.jpg?hmac=xxjFJtAPgshYkysU_aqx2sZir-kIOjNR9vx0te7GycQ",
-    "githubUrl": "https://github.com/Divalsehgal/event-tracker",
-    "url": "https://event-tracker-demo.vercel.app",
-    "technologies": ["Node.js", "Express", "PostgreSQL", "Docker"],
-    "reverse": false
-  },
-  {
-    "title": "Plant Price Crawler",
-    "description": "Web crawler & aggregator for plant prices across websites.",
-    "imageUrl": "https://fastly.picsum.photos/id/10/2500/1667.jpg?hmac=J04WWC_ebchx3WwzbM-Z4_KC_LeLBWr5LZMaAkWkF68",
-    "githubUrl": "https://github.com/Divalsehgal/plant-crawler",
-    "url": "https://plant-crawler-demo.vercel.app",
-    "technologies": ["Go", "Playwright", "PostgreSQL"],
-    "reverse": true
-  }
-]
-
-  }
-}
+  "projects": [
+    {
+      "name": "Next.js Portfolio",
+      "description": "My personal portfolio + blog built with a custom SCSS design system, token generator, and MUI integration.",
+      "techStack": ["Next.js", "TypeScript", "SCSS", "MUI"],
