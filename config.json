@@ -1,47 +1,71 @@
 {
-  "hero": {
-    "title": "Hi, I’m Dival Sehgal",
-    "subtitle": "Frontend Engineer — I build fast, scalable interfaces with Next.js, React, TypeScript and custom design systems.",
-    "primaryCtaLabel": "View Projects",
-    "primaryCtaHref": "#projects",
-    "secondaryCtaLabel": "Contact Me",
-    "secondaryCtaHref": "#contact"
-  },
-
-  "about": {
-    "title": "About Me",
-    "paragraphs": [
-      "I’m a frontend engineer who loves building clean, performant UIs with React, Next.js, and TypeScript.",
-      "I enjoy creating scalable design systems, working on large-scale architectures, and building tools that improve developer workflows."
-    ],
-    "facts": [
-      { "label": "Location", "value": "Bangalore, India" },
-      { "label": "Role", "value": "Frontend Engineer" },
-      { "label": "Focus", "value": "Next.js · React · Design Systems" }
-    ]
-  },
-
-  "experience": [
-    {
-      "company": "Ingenio",
-      "role": "Senior Frontend Engineer",
-      "period": "2022 — 2024",
-      "location": "Bangalore, India",
-      "description": "Built and optimized large-scale Next.js apps with heavy polling, custom dashboards, and scalable design systems.",
-      "techStack": ["Next.js", "React", "TypeScript", "MUI"]
+    "hero": {
+        "title": "Hi, I’m Dival Sehgal",
+        "subtitle": "Frontend Engineer — I build fast, scalable interfaces with Next.js, React, TypeScript and custom design systems.",
+        "primaryCtaLabel": "View Projects",
+        "primaryCtaHref": "#projects",
+        "secondaryCtaLabel": "Contact Me",
+        "secondaryCtaHref": "#contact"
     },
-    {
-      "company": "Previous Co",
-      "role": "Frontend Engineer",
-      "period": "2019 — 2022",
-      "location": "Remote",
-      "description": "Developed reusable UI components, improved performance across multiple products, and collaborated with designers/engineers.",
-      "techStack": ["React", "Node.js", "JavaScript", "PostgreSQL"]
-    }
-  ],
-
-  "projects": [
-    {
-      "name": "Next.js Portfolio",
-      "description": "My personal portfolio + blog built with a custom SCSS design system, token generator, and MUI integration.",
-      "techStack": ["Next.js", "TypeScript", "SCSS", "MUI"],
+    "about": {
+        "title": "About Me",
+        "paragraphs": [
+            "I’m a frontend engineer who loves building clean, performant UIs with React, Next.js, and TypeScript.",
+            "I enjoy creating scalable design systems, working on large-scale architectures, and building tools that improve developer workflows."
+        ],
+        "facts": [
+            {
+                "label": "Location",
+                "value": "Bangalore, India"
+            },
+            {
+                "label": "Role",
+                "value": "Frontend Engineer"
+            },
+            {
+                "label": "Focus",
+                "value": "Next.js · React · Design Systems"
+            }
+        ]
+    },
+    "experience": [
+        {
+            "company": "Ingenio",
+            "role": "Senior Frontend Engineer",
+            "period": "2022 — 2024",
+            "location": "Bangalore, India",
+            "description": "Built and optimized large-scale Next.js apps with heavy polling, custom dashboards, and scalable design systems.",
+            "techStack": [
+                "Next.js",
+                "React",
+                "TypeScript",
+                "MUI"
+            ]
+        },
+        {
+            "company": "Previous Co",
+            "role": "Frontend Engineer",
+            "period": "2019 — 2022",
+            "location": "Remote",
+            "description": "Developed reusable UI components, improved performance across multiple products, and collaborated with designers/engineers.",
+            "techStack": [
+                "React",
+                "Node.js",
+                "JavaScript",
+                "PostgreSQL"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Next.js Portfolio",
+            "description": "My personal portfolio + blog built with a custom SCSS design system, token generator, and MUI integration.",
+            "techStack": [
+                "Next.js",
+                "TypeScript",
+                "SCSS",
+                "MUI"
+            ]
+        }
+    ]
+}
