@@ -42,12 +42,7 @@
           "text": "Created scalable design systems and reusable UI component libraries following atomic design patterns."
         }
       ],
-      "techStack": ["Next.js", "React", "TypeScript", "MUI"],
-      "images": [
-        "https://images.unsplash.com/photo-1587620962725-abab7fe55159",
-        "https://images.unsplash.com/photo-1558655146-d09347e92766",
-        "https://images.unsplash.com/photo-1518770660439-4636190af475"
-      ]
+      "techStack": ["Next.js", "React", "TypeScript", "MUI"]
     },
 
     {
@@ -65,12 +60,7 @@
           "text": "Integrated complex backend services with efficient API handling and caching strategies."
         }
       ],
-      "techStack": ["React", "Node.js", "JavaScript", "PostgreSQL"],
-      "images": [
-        "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
-        "https://images.unsplash.com/photo-1551033406-611cf9a28f67",
-        "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
-      ]
+      "techStack": ["React", "Node.js", "JavaScript", "PostgreSQL"]
     },
 
     {
@@ -88,12 +78,7 @@
           "text": "Improved site performance scores to 90+ Lighthouse across all client projects."
         }
       ],
-      "techStack": ["React", "Next.js", "Express", "MongoDB"],
-      "images": [
-        "https://images.unsplash.com/photo-1555255707-c07966088b7b",
-        "https://images.unsplash.com/photo-1508830524289-0adcbe822b40",
-        "https://images.unsplash.com/photo-1556740749-887f6717d7e4"
-      ]
+      "techStack": ["React", "Next.js", "Express", "MongoDB"]
     },
 
     {
@@ -111,12 +96,7 @@
           "text": "Collaborated directly with founders and engineers on rapid iteration cycles."
         }
       ],
-      "techStack": ["HTML", "CSS", "JavaScript", "jQuery"],
-      "images": [
-        "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
-        "https://images.unsplash.com/photo-1498050108023-c5249f4df085?fit=crop&w=900&q=60",
-        "https://images.unsplash.com/photo-1527689368864-3a821dbccc34"
-      ]
+      "techStack": ["HTML", "CSS", "JavaScript", "jQuery"]
     }
   ],
 
@@ -126,14 +106,16 @@
       "description": "My personal portfolio + blog built with a custom SCSS design system, token generator, and MUI integration.",
       "techStack": ["Next.js", "TypeScript", "SCSS", "MUI"],
       "repo": "https://github.com/Divalsehgal/nextjs-portfolio",
-      "link": "https://divalsehgal.vercel.app"
+      "link": "https://divalsehgal.vercel.app",
+      "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159"
     },
     {
       "name": "Next.js Portfoliofds",
       "description": "My personal portfolio + blog built with a custom SCSS design system, token generator, and MUI integration.",
       "techStack": ["Next.js", "TypeScript", "SCSS", "MUI"],
       "repo": "https://github.com/Divalsehgal/nextjs-portfolio",
-      "link": "https://divalsehgal.vercel.app"
+      "link": "https://divalsehgal.vercel.app",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
     }
   ]
 }
