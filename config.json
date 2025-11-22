@@ -21,10 +21,6 @@
          {
             "label":"Role",
             "value":"Frontend Engineer"
-         },
-         {
-            "label":"Focus",
-            "value":"Next.js · React · Design Systems"
          }
       ],
       "resumeUrl":"./pdf"
