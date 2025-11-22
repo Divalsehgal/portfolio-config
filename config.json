@@ -2,9 +2,9 @@
    "hero":{
       "title":"Hi, I’m Dival Sehgal",
       "subtitle":"Frontend Engineer — I build fast, scalable interfaces with Next.js, React, TypeScript and custom design systems.",
-      "primaryCtaLabel":"View Projects",
+      "primaryCtaLabel":"Projects",
       "primaryCtaHref":"#projects",
-      "secondaryCtaLabel":"Contact Me",
+      "secondaryCtaLabel":"Contact",
       "secondaryCtaHref":"#contact"
    },
    "about":{
@@ -26,7 +26,8 @@
             "label":"Focus",
             "value":"Next.js · React · Design Systems"
          }
-      ]
+      ],
+      "resumeUrl":"./pdf"
    },
    "experience":[
       {
