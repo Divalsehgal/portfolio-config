@@ -1,14 +1,14 @@
 {
   "hero": {
     "title": "Hi, I’m Dival Sehgal",
-    "subtitle": "Senior Frontend Engineer — I build high-performance, scalable web applications using Next.js, React, and TypeScript.",
+    "subtitle": "Senior Frontend Engineer — Designing and building scalable frontend systems with a focus on performance, architecture, and clean engineering practices.",
     "primaryCtaLabel": "Projects",
     "primaryCtaHref": "#projects",
     "secondaryCtaLabel": "Contact",
     "secondaryCtaHref": "#contact",
     "badge": {
       "label": "Available for Opportunities",
-      "enabled": true
+      "enabled": false
     },
     "resumeLabel": "View Resume",
     "resumeUrl": "https://drive.google.com/file/d/1ZIXNdo4AEoXM5o0ujwQN82kNnTU24kFC/view?usp=drive_link"
@@ -16,16 +16,12 @@
   "about": {
     "title": "About Me",
     "paragraphs": [
-      "I'm a Senior Frontend Engineer with 5+ years of experience building performant and scalable web applications using React, Next.js, and TypeScript.",
-      "I specialize in building data-driven dashboards, scalable design systems, and optimizing frontend performance using real-world analytics and user behavior insights.",
+      "I'm a Senior Frontend Engineer with 5+ years of experience building performant and scalable web applications.",
+      "I specialise in building data-driven dashboards, scalable design systems, and optimising frontend performance using real-world analytics and user behaviour insights.",
       "Outside of work, I love hiking, exploring national parks and wildlife sanctuaries, and spending time in nature — it helps me reset and think more clearly about complex problems."
     ],
-    "facts": [
-      "5+ years of experience",
-      "Performance & UX focused",
-      "Explorer at heart 🌿"
-    ],
-    "resumeUrl": "https://drive.google.com/file/d/1ZIXNdo4AEoXM5o0ujwQN82kNnTU24kFC/view?usp=drive_link"
+    "resumeUrl": "https://drive.google.com/file/d/1ZIXNdo4AEoXM5o0ujwQN82kNnTU24kFC/view?usp=drive_link",
+    "imgSrc": "https://drive.google.com/file/d/1_ajP9fXSn1taNK0ENW8cg3znF2v7wQVy/view?usp=drive_link"
   },
   "experience": [
     {
@@ -37,19 +33,15 @@
       "description": [
         {
           "id": "ingenio-1",
-          "text": "Transformed the Advisor Dashboard into a data-driven insights platform with charts and analytics, improving engagement by 25% using Hotjar-driven optimizations."
+          "text": "Improved the Advisor Dashboard by adding analytics and insights, increasing engagement by 25% through data-driven optimisations."
         },
         {
           "id": "ingenio-2",
-          "text": "Revamped the Advisor Onboarding flow from Ember.js to Next.js, improving performance and UX while integrating Tipalti and Jumio for tax verification."
-        },
-        {
-          "id": "ingenio-3",
-          "text": "Built a Node.js microservice connected to BI pipelines to deliver real-time analytics for engagement, retention, and revenue metrics."
+          "text": "Rebuilt the Advisor Onboarding flow to improve performance and UX, and integrated Tipalti and Jumio for tax verification."
         },
         {
           "id": "ingenio-4",
-          "text": "Migrated key platform pages and integrated Zendesk Chatbot, improving support efficiency by 30% and reducing response time by 20%."
+          "text": "Optimised support workflows by migrating key pages and integrating a chatbot, improving efficiency by 30% and reducing response time by 20%."
         }
       ],
       "techStack": ["Next.js", "React", "Node.js", "Sass", "RTK Query"]
@@ -161,8 +153,8 @@
   ],
   "metadata": {
     "title": "Dival Sehgal | Senior Frontend Engineer",
-    "description": "Portfolio of Dival Sehgal, a Senior Frontend Engineer specializing in Next.js, React, and high-performance UI architecture.",
-    "keywords": ["Frontend Engineer", "Next.js", "React", "TypeScript", "Bangalore"]
+    "description": "Portfolio of Dival Sehgal, a Senior Frontend Engineer specializing in high-performance UI architecture.",
+    "keywords": ["Frontend Engineer", "React", "TypeScript", "Bangalore"]
   },
   "socials": [
     {
