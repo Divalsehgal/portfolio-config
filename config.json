@@ -15,11 +15,11 @@
   },
   "about": {
     "title": "About Me",
-    "paragraphs": [
-      "I'm a Senior Frontend Engineer with 5+ years of experience building performant and scalable web applications.",
-      "I specialise in building data-driven dashboards, scalable design systems, and optimising frontend performance using real-world analytics and user behaviour insights.",
-      "Outside of work, I love hiking, exploring national parks and wildlife sanctuaries, and spending time in nature — it helps me reset and think more clearly about complex problems."
-    ],
+"paragraphs": [
+  "I'm a Senior Frontend Engineer with 6+ years of experience building performant and scalable web applications."
+  "I specialise in developing data-driven dashboards, multi-brand eCommerce platforms, and media and wellness marketplaces. I focus on creating scalable design systems and optimising frontend performance using real-world analytics and user behaviour insights."
+  "Outside of work, I enjoy hiking, exploring national parks and wildlife sanctuaries, and spending time in nature—it helps me reset and approach complex problems with clarity."
+]
     "resumeUrl": "https://drive.google.com/file/d/1ZIXNdo4AEoXM5o0ujwQN82kNnTU24kFC/view?usp=drive_link",
     "imgSrc": "https://lh3.googleusercontent.com/d/1_ajP9fXSn1taNK0ENW8cg3znF2v7wQVy"
   },
@@ -103,7 +103,7 @@
       "description": [
         {
           "id": "nineleaps-intern-1",
-          "text": "Developed an internal Shuttle Service app with admin dashboard for ride-sharing, cab booking, and seat allocation."
+          "text": "Developed an internal Shuttle Service app with an admin dashboard for ride-sharing, cab booking, and seat allocation."
         }
       ],
       "techStack": ["React", "Sass", "Redux"]
@@ -111,9 +111,11 @@
   ],
   "projects": [
     {
-      "name": "Travel Template Generator",
-      "description": "Generates structured travel itineraries and templates for trips, helping users plan journeys efficiently with reusable formats.",
-      "techStack": ["Next.js", "React", "TypeScript"],
+    {
+  "name": "Travel Template Generator",
+  "description": "A professional web application designed to create, customise, and export structured travel itineraries with a dynamic theme engine and high-fidelity PDF support.",
+  "techStack": ["TypeScript", "Firebase", "SCSS", "MUI"]
+}
       "repo": "https://github.com/Divalsehgal/travel-template-generator"
     },
     {
