@@ -15,11 +15,9 @@
   },
   "about": {
     "title": "About Me",
-"paragraphs": [
-  "I'm a Senior Frontend Engineer with 6+ years of experience building performant and scalable web applications."
-  "I specialise in developing data-driven dashboards, multi-brand eCommerce platforms, and media and wellness marketplaces. I focus on creating scalable design systems and optimising frontend performance using real-world analytics and user behaviour insights."
-  "Outside of work, I enjoy hiking, exploring national parks and wildlife sanctuaries, and spending time in nature—it helps me reset and approach complex problems with clarity."
-]
+    "paragraphs": [
+      "I'm a Senior Frontend Engineer with 6+ years of experience building performant and scalable web applications.""I specialise in developing data-driven dashboards, multi-brand eCommerce platforms, and media and wellness marketplaces. I focus on creating scalable design systems and optimising frontend performance using real-world analytics and user behaviour insights.""Outside of work, I enjoy hiking, exploring national parks and wildlife sanctuaries, and spending time in nature—it helps me reset and approach complex problems with clarity."
+    ]
     "resumeUrl": "https://drive.google.com/file/d/1ZIXNdo4AEoXM5o0ujwQN82kNnTU24kFC/view?usp=drive_link",
     "imgSrc": "https://lh3.googleusercontent.com/d/1_ajP9fXSn1taNK0ENW8cg3znF2v7wQVy"
   },
@@ -44,7 +42,13 @@
           "text": "Optimised support workflows by migrating key pages and integrating a chatbot, improving efficiency by 30% and reducing response time by 20%."
         }
       ],
-      "techStack": ["Next.js", "React", "Node.js", "Sass", "RTK Query"]
+      "techStack": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "Sass",
+        "RTK Query"
+      ]
     },
     {
       "id": "exp-landmark",
@@ -70,7 +74,13 @@
           "text": "Optimized performance using Lighthouse, reducing load time, CLS, and bounce rate by 20%."
         }
       ],
-      "techStack": ["Next.js", "React", "Node.js", "Styled Components", "Redux Toolkit"]
+      "techStack": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "Styled Components",
+        "Redux Toolkit"
+      ]
     },
     {
       "id": "exp-nineleaps",
@@ -92,7 +102,12 @@
           "text": "Designed role-based routing and atomic component architecture for Narayan Edtech platform."
         }
       ],
-      "techStack": ["React", "Styled Components", "Redux Thunk", "Redux Saga"]
+      "techStack": [
+        "React",
+        "Styled Components",
+        "Redux Thunk",
+        "Redux Saga"
+      ]
     },
     {
       "id": "exp-nineleaps-intern",
@@ -106,42 +121,66 @@
           "text": "Developed an internal Shuttle Service app with an admin dashboard for ride-sharing, cab booking, and seat allocation."
         }
       ],
-      "techStack": ["React", "Sass", "Redux"]
+      "techStack": [
+        "React",
+        "Sass",
+        "Redux"
+      ]
     }
   ],
   "projects": [
     {
-    {
-  "name": "Travel Template Generator",
-  "description": "A professional web application designed to create, customise, and export structured travel itineraries with a dynamic theme engine and high-fidelity PDF support.",
-  "techStack": ["TypeScript", "Firebase", "SCSS", "MUI"]
-}
-      "repo": "https://github.com/Divalsehgal/travel-template-generator"
+      "name": "Travel Template Generator",
+      "description": "A professional web application designed to create, customise, and export structured travel itineraries with a dynamic theme engine and high-fidelity PDF support.",
+      "techStack": [
+        "TypeScript",
+        "Firebase",
+        "SCSS",
+        "MUI"
+      ],
+      "link": "https://github.com/Divalsehgal/travel-template-generator"
     },
     {
       "name": "Excel Clone",
       "description": "Spreadsheet application supporting cell editing, formulas, and formatting with a performant React architecture.",
-      "techStack": ["React", "JavaScript", "CSS"],
+      "techStack": [
+        "React",
+        "JavaScript",
+        "CSS"
+      ],
       "link": "https://divalsehgal.github.io/excel-plus",
       "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159"
     },
     {
       "name": "RPC Game",
       "description": "Real-time multiplayer Rock Paper Scissors game using WebSockets with queue-based matchmaking.",
-      "techStack": ["React", "Socket.io", "Node.js"],
+      "techStack": [
+        "React",
+        "Socket.io",
+        "Node.js"
+      ],
       "link": "https://dival-rpc.vercel.app",
       "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
     },
     {
       "name": "Booking Clone",
       "description": "Full-stack hotel booking platform with search, filtering, and management features.",
-      "techStack": ["React", "Node.js", "MongoDB", "Express"],
+      "techStack": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express"
+      ],
       "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945"
     },
     {
       "name": "YT Bookmarker",
       "description": "Chrome extension to save and manage YouTube timestamps using browser APIs and IndexedDB.",
-      "techStack": ["JavaScript", "Chrome API", "CSS"],
+      "techStack": [
+        "JavaScript",
+        "Chrome API",
+        "CSS"
+      ],
       "repo": "https://github.com/Divalsehgal/yt-bookmarker",
       "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7"
     }
@@ -156,7 +195,12 @@
   "metadata": {
     "title": "Dival Sehgal | Senior Frontend Engineer",
     "description": "Portfolio of Dival Sehgal, a Senior Frontend Engineer specializing in high-performance UI architecture.",
-    "keywords": ["Frontend Engineer", "React", "TypeScript", "Bangalore"]
+    "keywords": [
+      "Frontend Engineer",
+      "React",
+      "TypeScript",
+      "Bangalore"
+    ]
   },
   "socials": [
     {
