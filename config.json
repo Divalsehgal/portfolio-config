@@ -23,63 +23,115 @@
   },
   "experience": [
     {
+      "id": "exp-epam",
+      "company": "EPAM System Client: Princess Auto (Canadian Retail)",
+      "role": "SSE (Senior Software Engineer)",
+      "period": "04/2025 - Present",
+      "location": "Bengaluru, IN",
+      "description": [
+        {
+          "id": "epam-1",
+          "text": "Designed and standardized AI-assisted development workflows integrating LLM tools (Copilot, Claude) and MCP servers (Figma, Jira) with structured prompt engineering, boosting team productivity by ~10%."
+        },
+        {
+          "id": "epam-2",
+          "text": "Led end-to-end Contentful CMS migration, defining content models, workflows, and rollout strategy enabling marketing teams to independently manage listings, showcases, guides, campaign pages, and recommendation modules."
+        },
+        {
+          "id": "epam-3",
+          "text": "Built and scaled 30+ reusable UI components aligned with a unified design system and established a monorepo architecture with shared core packages to enable scalable frontend development."
+        },
+        {
+          "id": "epam-4",
+          "text": "Built scheduled serverless jobs via Azure Functions to auto-generate XML sitemaps for large-scale product inventory, improving SEO crawl efficiency."
+        },
+        {
+          "id": "epam-5",
+          "text": "Optimized Core Web Vitals (LCP, FCP, CLS) across critical pages, significantly improving performance scores and user experience."
+        }
+      ],
+      "techStack": [
+        "React",
+        "Next.js",
+        "LLM APIs",
+        "Claude Code",
+        "Contentful",
+        "Azure Functions",
+        "TypeScript",
+        "Playwright"
+      ]
+    },
+    {
       "id": "exp-ingenio",
       "company": "Ingenio",
       "role": "Senior Frontend Engineer",
-      "period": "05/2024 - Present",
+      "period": "05/2024 - 04/2025",
       "location": "Bengaluru, IN",
       "description": [
         {
           "id": "ingenio-1",
-          "text": "Improved the Advisor Dashboard by adding analytics and insights, increasing engagement by 25% through data-driven optimisations."
+          "text": "Rebuilt the Advisor Dashboard into a data-driven insights platform with real-time charts and analytics, driving a 25% increase in engagement through Hotjar-informed UX optimizations."
         },
         {
           "id": "ingenio-2",
-          "text": "Rebuilt the Advisor Onboarding flow to improve performance and UX, and integrated Tipalti and Jumio for tax verification."
+          "text": "Migrated the Advisor Onboarding Flow from Ember.js to Next.js while integrating Tipalti and Jumio for compliant tax and identity verification."
+        },
+        {
+          "id": "ingenio-3",
+          "text": "Consolidated Feedback, Availability Manager, and Customer Support modules into a unified experience leveraging pub/sub and polling for real-time chat availability."
         },
         {
           "id": "ingenio-4",
-          "text": "Optimised support workflows by migrating key pages and integrating a chatbot, improving efficiency by 30% and reducing response time by 20%."
+          "text": "Integrated Zendesk Chatbot to streamline support flows and reduce manual response overhead."
         }
       ],
       "techStack": [
         "Next.js",
         "React",
         "Node.js",
-        "Sass",
-        "RTK Query"
+        "RTK Query",
+        "Hotjar",
+        "Zendesk",
+        "Tipalti",
+        "Jumio"
       ]
     },
     {
       "id": "exp-landmark",
       "company": "Landmark Group",
-      "role": "Software Engineer 2",
+      "role": "Software Engineer",
       "period": "10/2021 - 05/2024",
       "location": "Bengaluru, IN",
       "description": [
         {
           "id": "landmark-1",
-          "text": "Led the Shukran Delivery project integrating same-day delivery across stores, improving on-time deliveries by 25%."
+          "text": "Led the Shukran Delivery Project for Max Fashion and Home Centre, integrating same-day delivery across multiple store locations and driving a 25% increase in non-GDMS orders."
         },
         {
           "id": "landmark-2",
-          "text": "Enhanced Flash Sales and Recommendation systems, increasing user engagement by 30% across brands."
+          "text": "Built personalized banners via Amplience CMS and leveraged Monetate to inject and test variations on production without engineering deployments."
         },
         {
           "id": "landmark-3",
-          "text": "Revamped location and product listing filters, improving accessibility and discoverability by 20%."
+          "text": "Enhanced flash sales and recommendation rails UX, driving a 30% boost in user engagement across all Landmark brands."
         },
         {
           "id": "landmark-4",
-          "text": "Optimized performance using Lighthouse, reducing load time, CLS, and bounce rate by 20%."
+          "text": "Revamped area location and product listing filters, improving accessibility and product discoverability by 20%."
+        },
+        {
+          "id": "landmark-5",
+          "text": "Optimized website performance via Lighthouse audits, reducing page load time and cumulative layout shifts, decreasing bounce rate by 20%."
         }
       ],
       "techStack": [
         "Next.js",
         "React",
         "Node.js",
-        "Styled Components",
-        "Redux Toolkit"
+        "Redux Toolkit",
+        "Amplience",
+        "Monetate",
+        "Lighthouse"
       ]
     },
     {
@@ -91,39 +143,40 @@
       "description": [
         {
           "id": "nineleaps-1",
-          "text": "Built a KYC Dashboard for Stanza Living to manage booking workflows across multiple platforms."
+          "text": "Developed a KYC Dashboard for Stanza Living that aggregated booking requests into a centralized management interface with Aadhaar API integration."
         },
         {
           "id": "nineleaps-2",
-          "text": "Developed an Ad Campaign Dashboard with analytics and automation, improving campaign efficiency."
+          "text": "Built an Ad Campaign Dashboard with campaign analytics, performance tracking, and workflow automation reducing manual management overhead."
         },
         {
           "id": "nineleaps-3",
-          "text": "Designed role-based routing and atomic component architecture for Narayan Edtech platform."
+          "text": "Architected role-based routing and an atomic component structure for Narayan Edtech's platform to enable scalable feature development."
         }
       ],
       "techStack": [
         "React",
-        "Styled Components",
-        "Redux Thunk",
-        "Redux Saga"
+        "JavaScript",
+        "Redux",
+        "REST APIs",
+        "Aadhaar API"
       ]
     },
     {
       "id": "exp-nineleaps-intern",
       "company": "Nineleaps",
-      "role": "Intern",
+      "role": "Internship",
       "period": "08/2019 - 02/2020",
       "location": "Bengaluru, IN",
       "description": [
         {
           "id": "nineleaps-intern-1",
-          "text": "Developed an internal Shuttle Service app with an admin dashboard for ride-sharing, cab booking, and seat allocation."
+          "text": "Developed an internal Shuttle Service App with an Admin Dashboard for managing client visits, ride-sharing, cab bookings, and seat allocation."
         }
       ],
       "techStack": [
         "React",
-        "Sass",
+        "JavaScript",
         "Redux"
       ]
     }
