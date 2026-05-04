@@ -11,14 +11,14 @@
       "enabled": true
     },
     "resumeLabel": "View Resume",
-    "resumeUrl": "https://drive.google.com/file/d/1jKhhNx02HomkZu_9nJbxDwaZqJGqrRFE/view?usp=sharing"
+    "resumeUrl": "https://drive.google.com/file/d/1qw8zzL-gcjY80PmvfryF0mf8lbkpPVQH/view?usp=sharing"
   },
   "about": {
     "title": "About Me",
     "paragraphs": [
-      "I'm a Senior Frontend Engineer with 6+ years of experience building performant and scalable web applications.'I specialise in developing data-driven dashboards, multi-brand eCommerce platforms, and media and wellness marketplaces. I focus on creating scalable design systems and optimising frontend performance using real-world analytics and user behaviour insights.'Outside of work, I enjoy hiking, exploring national parks and wildlife sanctuaries, and spending time in nature—it helps me reset and approach complex problems with clarity.'"
+      "I'm a Senior Frontend Engineer with 6+ years of experience building performant and scalable web applications. I specialise in developing data-driven dashboards, multi-brand eCommerce platforms, and media and wellness marketplaces. I focus on creating scalable design systems and optimising frontend performance using real-world analytics and user behaviour insights. Outside of work, I enjoy hiking, exploring national parks and wildlife sanctuaries, and spending time in nature—it helps me reset and approach complex problems with clarity."
     ],
-    "resumeUrl": "https://drive.google.com/file/d/1lqRseM1_Mws1HSd3QUCZuN4nXnj_4N0z/view",
+    "resumeUrl": "https://drive.google.com/file/d/1qw8zzL-gcjY80PmvfryF0mf8lbkpPVQH/view?usp=sharing",
     "imgSrc": "https://lh3.googleusercontent.com/d/1_ajP9fXSn1taNK0ENW8cg3znF2v7wQVy"
   },
   "experience": [
@@ -31,7 +31,7 @@
       "description": [
         {
           "id": "epam-1",
-          "text": "Designed and standardized AI-assisted development workflows integrating LLM tools (Copilot, Claude) and MCP servers (Figma, Jira) with structured prompt engineering, boosting team productivity by ~10%."
+          "text": "Designed and standardised AI-assisted development workflows integrating LLM tools (Copilot, Claude) and MCP servers (Figma, Jira) with structured prompt engineering, boosting team productivity by ~10%."
         },
         {
           "id": "epam-2",
@@ -47,7 +47,7 @@
         },
         {
           "id": "epam-5",
-          "text": "Optimized Core Web Vitals (LCP, FCP, CLS) across critical pages, significantly improving performance scores and user experience."
+          "text": "Optimised Core Web Vitals (LCP, FCP, CLS) across critical pages, significantly improving performance scores and user experience."
         }
       ],
       "techStack": [
