@@ -1,7 +1,7 @@
 {
   "hero": {
-    "title": "Hi, I’m Dival Sehgal",
-    "subtitle": "Senior Software Engineer — Building scalable full-stack systems across frontend architecture, cloud-integrated backends, and AI-assisted engineering workflows.",
+    "title": "Hi, I'm Dival Sehgal",
+    "subtitle": "Senior Software Engineer building scalable full-stack systems — React/Next.js frontends, GraphQL/serverless backends, and AI-assisted engineering workflows.",
     "primaryCtaLabel": "Projects",
     "primaryCtaHref": "#projects",
     "secondaryCtaLabel": "Contact",
@@ -16,13 +16,12 @@
   "about": {
     "title": "About Me",
     "paragraphs": [
-      "I'm a Senior Software Engineer with 6+ years of experience architecting and shipping full-stack web applications — from performant React/Next.js frontends to GraphQL/REST APIs, serverless functions, and cloud infrastructure on AWS and Azure.",
-      "On the frontend, I build data-driven dashboards, multi-brand eCommerce platforms, and scalable design systems using React, Next.js, and TypeScript. On the backend, I've built and extended AWS AppSync GraphQL resolvers with Python/AWS Lambda, orchestrated multi-source data into federated GraphQL layers, and shipped scheduled Azure Functions for large-scale SEO automation.",
-      "I also focus on AI-assisted development — standardising LLM-powered workflows with Copilot, Claude Code, and Model Context Protocol (MCP) servers integrated with Figma and Jira/Azure DevOps — to accelerate design-to-code delivery across teams.",
-      "Outside of work, I enjoy hiking, exploring national parks and wildlife sanctuaries, and spending time in nature — it helps me reset and approach complex problems with clarity."
+      "I'm a Senior Software Engineer with 6+ years building full-stack web applications end to end — performant React/Next.js frontends, GraphQL and REST APIs, serverless functions, and cloud infrastructure on AWS and Azure.",
+      "Recently I've been orchestrating data from multiple backend services into federated GraphQL layers with AWS AppSync and Python/Lambda, architecting TypeScript monorepos with Turborepo, and building multi-brand eCommerce platforms and data-driven dashboards.",
+      "I also design AI-assisted development workflows — Copilot, Claude Code, and Model Context Protocol (MCP) servers wired into Figma and Jira/Azure DevOps — to cut the distance between design and shipped code.",
+      "Outside of work, I hike and spend time in national parks and wildlife sanctuaries — it's where I go to reset and come back to hard problems with a clearer head."
     ],
-    "resumeUrl": "https://drive.google.com/file/d/1qw8zzL-gcjY80PmvfryF0mf8lbkpPVQH/view?usp=sharing",
-    "imgSrc": "https://lh3.googleusercontent.com/d/1_ajP9fXSn1taNK0ENW8cg3znF2v7wQVy"
+    "resumeUrl": "https://drive.google.com/file/d/1XifJzkfIjBkvGsFlGZ4NdWChI004m18L/view?usp=sharing"
   },
   "experience": [
     {
@@ -32,48 +31,14 @@
       "period": "04/2025 - Present",
       "location": "Bengaluru, IN",
       "description": [
-        {
-          "id": "epam-1",
-          "text": "Engineered healthcare web applications for Philips Healthcare using Next.js, Contentful CMS, and AWS AppSync — orchestrating data from multiple backend services into a unified GraphQL layer."
-        },
-        {
-          "id": "epam-2",
-          "text": "Built and extended AWS AppSync GraphQL resolvers using Python (AWS Lambda), transforming Contentful content into a federated GraphQL schema with strongly typed, reusable API responses."
-        },
-        {
-          "id": "epam-3",
-          "text": "Led a 3-engineer team on a Contentful CMS migration for Princess Auto (Canadian retail chain), enabling marketing to independently manage 100% of dynamic site content across listings, showcases, guides, campaigns, and recommendation modules."
-        },
-        {
-          "id": "epam-4",
-          "text": "Standardised AI-assisted development workflows using LLMs (Copilot, Claude Code), Model Context Protocol servers, and reusable prompt/skill files — accelerating code generation, design-to-code implementation, and Jira/Azure DevOps-driven development."
-        },
-        {
-          "id": "epam-5",
-          "text": "Architected a TypeScript monorepo (Turborepo) with shared design tokens and a component library via Storybook, improving consistency and accessibility across applications."
-        },
-        {
-          "id": "epam-6",
-          "text": "Built scheduled Azure Functions to auto-generate XML sitemaps for large-scale product and category inventory, improving SEO crawl efficiency."
-        }
+        { "id": "epam-1", "text": "Built healthcare web applications for Philips Healthcare with Next.js and Contentful CMS, orchestrating data from multiple backend services into a unified AWS AppSync GraphQL layer." },
+        { "id": "epam-2", "text": "Built and extended AppSync GraphQL resolvers in Python on AWS Lambda, transforming Contentful content into a federated, strongly-typed GraphQL schema." },
+        { "id": "epam-3", "text": "Led a 3-engineer team on a Contentful CMS migration for Princess Auto (Canadian retail chain), giving marketing independent control of 100% of dynamic site content across listings, showcases, guides, campaigns, and recommendation modules." },
+        { "id": "epam-4", "text": "Standardized AI-assisted development workflows using Copilot, Claude Code, MCP servers, and reusable prompt/skill files, speeding up code generation and design-to-code delivery across Jira/Azure DevOps." },
+        { "id": "epam-5", "text": "Architected a TypeScript monorepo (Turborepo) with shared design tokens and a component library in Storybook, improving consistency and accessibility across applications." },
+        { "id": "epam-6", "text": "Built scheduled Azure Functions that auto-generate XML sitemaps for large-scale product and category inventory, improving SEO crawl efficiency." }
       ],
-      "techStack": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Node.js",
-        "Python",
-        "AWS Lambda",
-        "AWS AppSync",
-        "GraphQL",
-        "Contentful",
-        "Azure Functions",
-        "Turborepo",
-        "Storybook",
-        "MCP / LLM Tooling",
-        "Claude Code",
-        "Playwright"
-      ]
+      "techStack": ["React", "Next.js", "TypeScript", "Node.js", "Python", "AWS Lambda", "AWS AppSync", "GraphQL", "Contentful", "Azure Functions", "Turborepo", "Storybook", "MCP / LLM Tooling", "Claude Code", "Playwright"]
     },
     {
       "id": "exp-ingenio",
@@ -82,33 +47,12 @@
       "period": "05/2024 - 04/2025",
       "location": "Bengaluru, IN",
       "description": [
-        {
-          "id": "ingenio-1",
-          "text": "Drove a 25% increase in user engagement by re-architecting the Advisor Dashboard into a real-time analytics platform, using Hotjar data to inform UX optimizations."
-        },
-        {
-          "id": "ingenio-2",
-          "text": "Modernized the Advisor Onboarding Flow by migrating from Ember.js to Next.js, integrating Tipalti and Jumio for automated tax and identity compliance."
-        },
-        {
-          "id": "ingenio-3",
-          "text": "Consolidated Feedback, Availability Manager, and Customer Support modules into a unified experience, leveraging pub/sub and polling mechanisms for real-time chat availability."
-        },
-        {
-          "id": "ingenio-4",
-          "text": "Integrated Zendesk Chatbot to streamline support flows and reduce manual response overhead."
-        }
+        { "id": "ingenio-1", "text": "Re-architected the Advisor Dashboard into a real-time analytics platform, using Hotjar data to guide UX changes that drove a 25% increase in engagement." },
+        { "id": "ingenio-2", "text": "Modernized the Advisor Onboarding Flow, migrating from Ember.js to Next.js and integrating Tipalti and Jumio for automated tax and identity compliance." },
+        { "id": "ingenio-3", "text": "Consolidated Feedback, Availability Manager, and Customer Support into one unified experience, using pub/sub and polling for real-time chat availability." },
+        { "id": "ingenio-4", "text": "Integrated a Zendesk chatbot into the support flow, cutting manual response overhead." }
       ],
-      "techStack": [
-        "Next.js",
-        "React",
-        "Node.js",
-        "RTK Query",
-        "Hotjar",
-        "Zendesk",
-        "Tipalti",
-        "Jumio"
-      ]
+      "techStack": ["Next.js", "React", "Node.js", "RTK Query", "Hotjar", "Zendesk", "Tipalti", "Jumio"]
     },
     {
       "id": "exp-landmark",
@@ -117,36 +61,13 @@
       "period": "10/2021 - 05/2024",
       "location": "Bengaluru, IN",
       "description": [
-        {
-          "id": "landmark-1",
-          "text": "Led the Shukran Delivery Project for Max Fashion and Home Centre, integrating same-day delivery across multiple store locations and driving a 25% increase in non-GDMS orders."
-        },
-        {
-          "id": "landmark-2",
-          "text": "Built personalized banners via Amplience CMS segmented by user landing source and behaviour, using Monetate for variant injection and A/B testing on production without engineering deployments."
-        },
-        {
-          "id": "landmark-3",
-          "text": "Enhanced flash sales and recommendation rails UX, driving a 30% boost in user engagement across all Landmark brands."
-        },
-        {
-          "id": "landmark-4",
-          "text": "Revamped area location and product listing filters, improving accessibility and product discoverability by 20%."
-        },
-        {
-          "id": "landmark-5",
-          "text": "Optimized website performance via Lighthouse audits, reducing page load time and cumulative layout shifts, decreasing bounce rate by 10%."
-        }
+        { "id": "landmark-1", "text": "Led the Shukran Delivery Project for Max Fashion and Home Centre, rolling out same-day delivery across multiple store locations and driving a 25% increase in non-GDMS orders." },
+        { "id": "landmark-2", "text": "Built personalized banners in Amplience CMS, segmented by user landing source and behavior, with Monetate powering variant injection and A/B testing in production without engineering deployments." },
+        { "id": "landmark-3", "text": "Redesigned flash-sales and recommendation-rail UX, driving a 30% increase in engagement across all Landmark brands." },
+        { "id": "landmark-4", "text": "Revamped store-locator and product-listing filters, improving accessibility and discoverability by 20%." },
+        { "id": "landmark-5", "text": "Ran Lighthouse audits to cut page load time and cumulative layout shift, reducing bounce rate by 10%." }
       ],
-      "techStack": [
-        "Next.js",
-        "React",
-        "Node.js",
-        "Redux Toolkit",
-        "Amplience",
-        "Monetate",
-        "Lighthouse"
-      ]
+      "techStack": ["Next.js", "React", "Node.js", "Redux Toolkit", "Amplience", "Monetate", "Lighthouse"]
     },
     {
       "id": "exp-nineleaps",
@@ -155,170 +76,68 @@
       "period": "02/2020 - 10/2021",
       "location": "Bengaluru, IN",
       "description": [
-        {
-          "id": "nineleaps-1",
-          "text": "Developed a KYC Dashboard for Stanza Living aggregating 10,000–50,000 monthly booking requests across multiple apps into a centralized management interface, integrating Aadhaar API for real-time identity verification."
-        },
-        {
-          "id": "nineleaps-2",
-          "text": "Built an Ad Campaign Dashboard managing 1,000+ monthly campaigns with performance tracking, analytics, and workflow automation, reducing manual overhead by ~30%."
-        },
-        {
-          "id": "nineleaps-3",
-          "text": "Architected role-based routing and an atomic component structure for Narayan Edtech's platform to enable scalable feature development."
-        }
+        { "id": "nineleaps-1", "text": "Built a KYC Dashboard for Stanza Living, centralizing 10,000–50,000 monthly booking requests across multiple apps and integrating the Aadhaar API for real-time identity verification." },
+        { "id": "nineleaps-2", "text": "Built an Ad Campaign Dashboard managing 1,000+ monthly campaigns with performance tracking and workflow automation, cutting manual overhead by ~30%." },
+        { "id": "nineleaps-3", "text": "Architected role-based routing and an atomic component structure for Narayan Edtech's platform, enabling scalable feature development." }
       ],
-      "techStack": [
-        "React",
-        "JavaScript",
-        "Redux",
-        "REST APIs",
-        "Aadhaar API"
-      ]
+      "techStack": ["React", "JavaScript", "Redux", "REST APIs", "Aadhaar API"]
     },
     {
       "id": "exp-nineleaps-intern",
       "company": "Nineleaps",
-      "role": "Internship",
+      "role": "Software Engineering Intern",
       "period": "07/2019 - 02/2020",
       "location": "Bengaluru, IN",
       "description": [
-        {
-          "id": "nineleaps-intern-1",
-          "text": "Developed an internal Shuttle Service App with an Admin Dashboard for managing client visits, ride-sharing, cab bookings, and seat allocation."
-        }
+        { "id": "nineleaps-intern-1", "text": "Built an internal Shuttle Service app with an admin dashboard for managing client visits, ride-sharing, cab bookings, and seat allocation." }
       ],
-      "techStack": [
-        "React",
-        "JavaScript",
-        "Redux"
-      ]
+      "techStack": ["React", "JavaScript", "Redux"]
     }
   ],
   "projects": [
     {
       "name": "TripDoc — Travel Template Generator",
-      "description": "Full-stack travel template customization platform with print-ready A4 PDF exports, dynamic image cropping, and a multi-theme design token system.",
-      "techStack": [
-        "Next.js",
-        "TypeScript",
-        "Firebase (Auth & Firestore)",
-        "SCSS",
-        "MUI"
-      ],
+      "description": "A full-stack travel template customization platform with print-ready A4 PDF exports, dynamic image cropping, and a multi-theme design-token system.",
+      "techStack": ["Next.js", "TypeScript", "Firebase (Auth & Firestore)", "SCSS", "MUI"],
       "link": "https://github.com/Divalsehgal/travel-template-generator"
     },
     {
       "name": "GameRoom",
-      "description": "Real-time multiplayer gaming platform with Google OAuth login, Zustand state management, Framer Motion animation, and automated testing.",
-      "techStack": [
-        "Next.js",
-        "TypeScript",
-        "Socket.io",
-        "Express",
-        "Zustand",
-        "Vitest",
-        "Jest"
-      ],
+      "description": "A real-time multiplayer gaming platform with Google OAuth login, Zustand state management, Framer Motion animation, and automated testing.",
+      "techStack": ["Next.js", "TypeScript", "Socket.io", "Express", "Zustand", "Vitest", "Jest"],
       "link": "https://dival-rpc.vercel.app",
       "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
     },
     {
       "name": "Excel Clone",
-      "description": "Zero-dependency spreadsheet application supporting cell editing, formulas (with BFS cycle detection), and formatting via a performant React architecture.",
-      "techStack": [
-        "React",
-        "JavaScript",
-        "CSS"
-      ],
+      "description": "A zero-dependency spreadsheet app with cell editing, formulas (with BFS-based cycle detection), and formatting, built on a performant React architecture.",
+      "techStack": ["React", "JavaScript", "CSS"],
       "link": "https://divalsehgal.github.io/excel-plus",
       "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159"
     },
     {
       "name": "Booking Clone",
-      "description": "Full-stack hotel booking platform with search, filtering, and management features.",
-      "techStack": [
-        "React",
-        "Node.js",
-        "MongoDB",
-        "Express"
-      ],
+      "description": "A full-stack hotel booking platform with search, filtering, and management features.",
+      "techStack": ["React", "Node.js", "MongoDB", "Express"],
       "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945"
     },
     {
       "name": "YT Bookmarker",
-      "description": "Chrome extension to save and manage YouTube timestamps using browser APIs and IndexedDB.",
-      "techStack": [
-        "JavaScript",
-        "Chrome API",
-        "CSS"
-      ],
+      "description": "A Chrome extension for saving and managing YouTube timestamps, using browser APIs and IndexedDB.",
+      "techStack": ["JavaScript", "Chrome API", "CSS"],
       "repo": "https://github.com/Divalsehgal/yt-bookmarker",
       "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7"
-    }
-  ],
-  "skills": {
-    "title": "Skills",
-    "categories": [
-      {
-        "label": "Core Technologies",
-        "items": ["HTML", "CSS", "JavaScript", "React.js", "Next.js", "Node.js", "TypeScript", "Redux", "RTK Query", "GraphQL", "REST APIs", "Python", "Playwright", "Jest"]
-      },
-      {
-        "label": "Database Technologies",
-        "items": ["MySQL", "MongoDB", "Firebase / Firestore"]
-      },
-      {
-        "label": "Styling & Build",
-        "items": ["Core Web Vitals", "WCAG 2.1", "Vite", "SASS", "Tailwind CSS", "Webpack"]
-      },
-      {
-        "label": "Tooling",
-        "items": ["Storybook", "Git", "GTM/GA4", "Contentful", "Amplience", "Cursor", "Claude Code", "MCP Servers"]
-      },
-      {
-        "label": "Cloud & Infra",
-        "items": ["Docker", "AWS S3", "AWS EC2", "AWS Lambda", "AWS AppSync", "Azure Functions", "Azure Pipelines", "CI/CD"]
-      }
-    ]
-  },
-  "education": [
-    {
-      "degree": "B.Tech in Computer Science & Engineering",
-      "institution": "Jaypee University of Information Technology (JUIT)",
-      "period": "Jan 2015 - Jan 2019"
     }
   ],
   "metadata": {
     "title": "Dival Sehgal | Senior Software Engineer",
     "description": "Portfolio of Dival Sehgal, a Senior Software Engineer specializing in full-stack architecture — React/Next.js frontends, GraphQL/serverless backends, and cloud infrastructure on AWS and Azure.",
-    "keywords": [
-      "Senior Software Engineer",
-      "Full Stack Engineer",
-      "React",
-      "Next.js",
-      "TypeScript",
-      "GraphQL",
-      "AWS",
-      "Bangalore"
-    ]
+    "keywords": ["Senior Software Engineer", "Full Stack Engineer", "React", "Next.js", "TypeScript", "GraphQL", "AWS", "Bangalore"]
   },
   "socials": [
-    {
-      "label": "Github",
-      "href": "https://github.com/Divalsehgal",
-      "icon": "github"
-    },
-    {
-      "label": "Linkedin",
-      "href": "https://linkedin.com/in/divalsehgal",
-      "icon": "linkedin"
-    },
-    {
-      "label": "Instagram",
-      "href": "https://instagram.com/divalsehgal",
-      "icon": "instagram"
-    }
+    { "label": "Github", "href": "https://github.com/Divalsehgal", "icon": "github" },
+    { "label": "Linkedin", "href": "https://linkedin.com/in/divalsehgal", "icon": "linkedin" },
+    { "label": "Instagram", "href": "https://instagram.com/divalsehgal", "icon": "instagram" }
   ],
   "contact": {
     "title": "Get in Touch",
