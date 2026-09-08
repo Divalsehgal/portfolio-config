@@ -105,7 +105,7 @@
       "name": "GameRoom",
       "description": "A real-time multiplayer gaming platform with Google OAuth login, Zustand state management, Framer Motion animation, and automated testing.",
       "techStack": ["Next.js", "TypeScript", "Socket.io", "Express", "Zustand", "Vitest", "Jest"],
-      "link": "https://dival-rpc.vercel.app",
+      "link": "https://mutiplayer-arena-client.onrender.com",
       "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
     },
     {
