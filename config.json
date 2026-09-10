@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Dival Sehgal",
-    "subtitle": "Senior Software Engineer building scalable full-stack systems - React/Next.js frontends, Nodejs/Python powered GraphQL/serverless backends, and AI-assisted engineering workflows.",
+    "subtitle": "Senior Software Engineer specializing in scalable full-stack architecture—React/Next.js frontends, Node.js/Python GraphQL and serverless backends, and agentic AI systems built with MCP, RAG, LLM orchestration, and tool integrations.",
     "primaryCtaLabel": "Projects",
     "primaryCtaHref": "#projects",
     "secondaryCtaLabel": "Contact",
